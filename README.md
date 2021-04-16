@@ -1,7 +1,11 @@
 # Curriculo Online - Heloísa Bonilha
-Site pessoal com minhas informações para você me conhecer um pouco melhor.
+
+Site pessoal para você me conhecer um pouco melhor.
+
+Para acessar o site basta entrar em : https://heloisa-bonilha.github.io/CurriculOn-Heloisa-Bonilha/
 
 Vectors: https://www.freepik.com/
+Envio do Email Automático: https://www.smtpjs.com/
 
 JQuery Scripts:
 - Magnify Popup (https://dimsemenov.com/plugins/magnific-popup/)
