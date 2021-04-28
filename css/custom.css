@@ -308,3 +308,6 @@ body {
 #servicos .container #exp{
 text-decoration: none;
 }
+#depoimentos .depoimento a{
+  text-decoration: none;
+}
