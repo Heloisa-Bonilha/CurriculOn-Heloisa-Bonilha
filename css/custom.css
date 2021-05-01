@@ -180,6 +180,22 @@ body {
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.4);
 }
 
+#servicos .cargo {
+  text-align: start;
+  vertical-align: middle;
+}
+#servicos .cargo p{
+  color: #383838;
+  font-size: 15px;
+}
+#servicos .tempo {
+  text-align: end;
+}
+#servicos .tempo p{
+  color: #383838;
+  font-size: 15px;
+}
+
 #servicos .button-group {
   margin-bottom: 30px;
 }
