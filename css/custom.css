@@ -110,7 +110,7 @@ body {
 }
 
 #clientes a.link-cliente img {
-  filter: grayscale(100%);
+  filter: grayscale(70%);
   max-height: 70px;
   width: 100%;
   opacity: 0.6;
@@ -159,12 +159,19 @@ body {
   font-size: 14px;
   color: #b4b4b4;
 }
+/*
+#clientes .cliente-texto .telefone img {
+  width: 30% ;
+}*/
 
+#clientes .container .imagem img{
+  width: 60%;
+}
 #clientes .cliente-texto .telefone span {
-  font-size: 20px;
+  font-size: 18px;
   color: #797979;
   font-weight: 900;
-  display: block;
+  display: flex;
 }
 
 #servicos .badge {
@@ -189,7 +196,7 @@ body {
   font-size: 15px;
 }
 #servicos .tempo {
-  text-align: end;
+  text-align: start;
 }
 #servicos .tempo p{
   color: #383838;
@@ -240,6 +247,9 @@ body {
 #depoimentos .depoimento .libras img{
   width: 150px;
   height: 50px;
+}
+#depoimentos .recomenda .depoimento img{
+  border-radius: 50%;
 }
 #contato .email {
   border-radius: 5px;
@@ -311,9 +321,6 @@ body {
 }
 #contato .img-fluid{
   width: 200px;
-}
-#clientes .container .imagem img{
-  width: 60%;
 }
 #portfolio img{
   width: 15%;
