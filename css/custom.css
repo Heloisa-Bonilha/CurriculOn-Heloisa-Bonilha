@@ -231,7 +231,18 @@ body {
   display: flex;
   padding: 30px;
 }
-
+#depoimentos .carousel-control-prev .carousel-control-prev-icon{
+  filter: invert(1);
+  opacity: 1;
+} 
+#depoimentos .carousel-control-next .carousel-control-next-icon{
+  filter: invert(1);
+  opacity: 1;
+} 
+#depoimentos .carousel-indicators{
+  filter: invert(1);
+  opacity: 1;
+}
 #depoimentos .depoimento .quote {
   max-width: 35px;
 }
