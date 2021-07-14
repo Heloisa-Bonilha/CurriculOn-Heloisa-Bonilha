@@ -224,6 +224,9 @@ body {
 #servicos .button-group button.active {
   color: var(--primary);
 }
+#servicos .container #exp{
+  text-decoration: none;
+}
 
 #depoimentos .depoimento {
   background-color: var(--light);
@@ -262,6 +265,23 @@ body {
 #depoimentos .recomenda .depoimento img{
   border-radius: 50%;
 }
+#depoimentos .seta-esq{
+  margin-left: -100px;
+
+}
+#depoimentos .seta-dir{
+  margin-right: -100px;
+
+}
+#depoimentos .base{
+  margin-bottom: -30px;
+
+}
+
+#depoimentos .depoimento a{
+  text-decoration: none;
+}
+
 #contato .email {
   border-radius: 5px;
   background-color: var(--secondary);
@@ -334,14 +354,20 @@ body {
   width: 200px;
 }
 #portfolio img{
-  width: 15%;
+  width: 13%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-#servicos .container #exp{
-text-decoration: none;
+#portfolio .picpay img{
+  width: 80%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
-#depoimentos .depoimento a{
-  text-decoration: none;
+#portfolio .pictexto span{
+  font-size: medium;
+  color: #383838;
 }
